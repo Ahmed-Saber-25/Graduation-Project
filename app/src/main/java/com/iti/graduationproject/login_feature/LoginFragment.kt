@@ -21,6 +21,11 @@ class LoginFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
+    private var param4: String? = null
+    private var param5: String? = null
+    private var param6: String? = null
+    private var param7: String? = null
+    private var param8: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
